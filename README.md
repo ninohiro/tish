@@ -1,0 +1,2 @@
+# tish
+A tiny shell
